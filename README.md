@@ -3,6 +3,7 @@ Prácticas y material de orientación a objetos 1, cursada 2do semestre 2021- Fa
 
 ## Práctica ##
 * [Código + UML](https://github.com/ssofiaavila/OO1--Informatica-UNLP/tree/main/Pr%C3%A1ctica)
+* [Parcial 1ra fecha](https://github.com/ssofiaavila/OO1--Informatica-UNLP/blob/main/OO1%20parcial%20primera%20fecha.pdf)
 
 ## Material ##
 * [Teorías](https://github.com/ssofiaavila/OO1--Informatica-UNLP/tree/main/Teor%C3%ADas)
